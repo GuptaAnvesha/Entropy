@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>123456789012-abcdef.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.123456789012-abcdef</string>
+	<key>API_KEY</key>
+	<string>AIzaSyFakeKeyHereForCompilation</string>
+	<key>APP_ID</key>
+	<string>1:123456789012:ios:abcdef123456</string>
+	<key>PROJECT_ID</key>
+	<string>entropy-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>entropy-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:123456789012:ios:abcdef123456</string>
+</dict>
+</plist>

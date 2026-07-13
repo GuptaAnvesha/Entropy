@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215506423044",
+    "project_id": "entropy-f4806",
+    "storage_bucket": "entropy-f4806.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215506423044:android:3de70775762bcf8b875451",
+        "android_client_info": {
+          "package_name": "com.entropy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBOEy4WVqmssM3uLBEcFaLVp7JjVXk1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
